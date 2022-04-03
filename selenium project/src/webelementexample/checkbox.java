@@ -12,6 +12,8 @@ public class checkbox {
 
 	public static void main(String[] args) {
 
+		//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
+		//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
      System.setProperty("webdriver.geckodriver","D:\\workspace\\selenium project\\resorces\\geckodriver.exe");
      FirefoxDriver obj=new FirefoxDriver();
      obj.get("https://demoqa.com/checkbox");
